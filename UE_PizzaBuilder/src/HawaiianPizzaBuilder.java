@@ -1,4 +1,4 @@
-class HawaiianPizzaBuilder extends PizzaBuilder{
+class HawaiianPizzaBuilder{
 
     public void buildDough() {
         pizza.setDough("cross");

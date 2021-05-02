@@ -1,4 +1,4 @@
-class SpicyPizzaBuilder extends SpicyPizzaBuilder {
+class SpicyPizzaBuilder{
 
     public void buildDough() {
         pizza.setDough("pan baked");

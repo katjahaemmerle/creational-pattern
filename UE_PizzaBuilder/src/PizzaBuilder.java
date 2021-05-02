@@ -2,9 +2,8 @@ abstract class PizzaBuilder {
     Pizza pizza;
 
     //createNewPizzaProduct
-    public void createnewpizzaproduct() {
-         new Pizza;
-    }
+
+
     public Pizza getPizza() {
         return pizza;
     }

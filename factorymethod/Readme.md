@@ -7,6 +7,10 @@ Erstelle eine neue Klasse namens **PickupTruck**, die das Car-Interface implemen
 Erstelle eine neue Klasse namens **CustomCarFactory**. Diese Klasse soll eine Kind-Klasse der CarFactory sein!
 ## 4. Aufgabe 
 Überschreibe die **createCar()**-Methode, sodass ein PickupTruck erstellt wird, wenn der Parameter carType der Zeichenkette "*Pickup*“ gleicht. 
+## 5. Aufgabe 
+* Erstelle ein neues **CustomCarFactory** Objekt in der main Methode der **CarTestDrive** Klasse. 
+* Erstelle mit Hilfe der **createCar(String type)** Methode ein neues **Car** vom Typ Pickup in dem du den String "Pickup" der Methode übergibst. 
+* Rufe die **drive()** Methode des zuvor erstellten Car Objektes auf
 
 
 

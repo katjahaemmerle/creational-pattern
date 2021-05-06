@@ -11,7 +11,7 @@ public class PizzaBuilderDemo {
 
         //Pizza-Objekt initialisieren
 
-        pizza = waiter.getPizza();
+        
         System.out.println(pizza.getDough() + pizza.getSauce() + pizza.getTopping());
     }
 }

@@ -9,7 +9,7 @@ package singleton;
  *
  * @author Fabian
  */
-public class Bilanz {
+public class MainClass {
     static MobileClient mobileClient;
     static DesktopClient desktopClient;
     public static void main(String[] args){

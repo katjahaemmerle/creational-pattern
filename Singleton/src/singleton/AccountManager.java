@@ -23,7 +23,7 @@ class AccountManager {
      * soll eine erstellt werden.
      * @return Singleton Instanz
      */
-    public synchronized static AccountManager getInstance() {
+    public static AccountManager getInstance() {
         //Hier den Account Manager über Lazy Load instanziieren
         
         //Das Return Statement muss ebenfalls geändert werden
